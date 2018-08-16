@@ -1,0 +1,15 @@
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\bin\Debug\Wpf_DrawTimer.exe.config
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\bin\Debug\Wpf_DrawTimer.exe
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\bin\Debug\Wpf_DrawTimer.pdb
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.csprojAssemblyReference.cache
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\MainWindow.g.cs
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\App.g.cs
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer_MarkupCompile.cache
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer_MarkupCompile.lref
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\MainWindow.baml
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.g.resources
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.Properties.Resources.resources
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.csproj.GenerateResource.cache
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.csproj.CoreCompileInputs.cache
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.exe
+C:\Users\Fiore\source\repos\Wpf_DrawTimer\Wpf_DrawTimer\obj\Debug\Wpf_DrawTimer.pdb

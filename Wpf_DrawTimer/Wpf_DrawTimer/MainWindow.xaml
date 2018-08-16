@@ -1,0 +1,32 @@
+﻿<Window x:Class="Wpf_DrawTimer.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DrawTimer"
+        mc:Ignorable="d"
+        Title="DrawTimer" Height="259.092" Width="206.187" MaxHeight="500" MaxWidth="700"
+        ResizeMode="CanResize"
+        SizeToContent="WidthAndHeight">
+    <Viewbox Name="viewbox1" Margin="0,10,3.6,-1.8" RenderTransformOrigin="0.251,0.134">
+        <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="5,0,0,0.4" Height="255" Width="232">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" MinHeight="44"></RowDefinition>
+                <RowDefinition Height="Auto" MinHeight="48.8"></RowDefinition>
+                <RowDefinition Height="Auto" MinHeight="47.2"></RowDefinition>
+                <RowDefinition Height="Auto" MinHeight="59.2"></RowDefinition>
+                <RowDefinition Height="56.8"/>
+                <RowDefinition Height="103.2"/>
+            </Grid.RowDefinitions>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" MinWidth="98.4"></ColumnDefinition>
+            </Grid.ColumnDefinitions>
+
+            <ProgressBar x:Name="pb_Time" Grid.Row="0" Width="Auto" Margin="0,0,-122.8,7"/>
+            <Button x:Name="b5" Grid.Row="1" Content="5 минут" Margin="49,2,-50.8,7.8" Click="b5_Click"/>
+            <Button x:Name="b15" Grid.Row="2" Content="15 минут" Margin="49,5.2,-50.8,4" Click="b15_Click"/>
+            <Button x:Name="b25" Grid.Row="3" Content="25 минут" Margin="49,9,-50.8,13.2" Click="b25_Click"/>
+            <Button x:Name="Stop" Grid.Row="4" Content="Stop" Margin="49,1.8,-48.8,19" Click="Stop_Click"/>
+        </Grid>
+    </Viewbox>
+</Window>
